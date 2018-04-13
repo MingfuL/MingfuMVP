@@ -17,6 +17,7 @@ public class MainActivityPresenter extends BasePresenter<MainActivityContract.Vi
     public MainActivityPresenter(MainActivityContract.View rootView, MainActivityContract.Model model) {
         super(rootView, model);
 
+
     }
 
 
